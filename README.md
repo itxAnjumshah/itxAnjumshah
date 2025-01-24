@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @itxAnjumshah
 - 👀 I’m interested in ... web-development
-- 🌱 I’m currently learning ...next js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently working ...mern-stack-development
+- 💞️ 
+- 📫 
+- 😄 
+- ⚡ 
 
 <!---
 itxAnjumshah/itxAnjumshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
